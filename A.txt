@@ -1,4 +1,9 @@
 A
 
+<<<<<<< HEAD
 local2
 local2
+=======
+local1
+local1
+>>>>>>> local1
